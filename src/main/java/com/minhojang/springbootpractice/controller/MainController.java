@@ -7,10 +7,10 @@ import org.springframework.web.bind.annotation.GetMapping;
 @Controller
 public class MainController {
 
-    @GetMapping("/greeting")
+    @GetMapping("/hello")
     public String greeting(Model model) {
         model.addAttribute("username", "Minho");
-        return "greeting";
+        return "hello";
     }
 
     @GetMapping("/bye")
