@@ -3,7 +3,8 @@
 유튜브 스프링 부트 입문 강의 따라하기
 1. https://www.youtube.com/playlist?list=PLyebPLlVYXCiYdYaWRKgCqvnCFrLEANXt <br>
    11강 이후부터 비공개. 이후 여유가 생기고, 강의를 완성한 후에 공개한다고 함.
-2. https://www.youtube.com/playlist?list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm
+2. https://www.youtube.com/playlist?list=PL93mKxaRDidECgjOBjPgI3Dyo8ka6Ilqm <br>
+   18강 이후부터는 본격적인 강의의 주제 '블로그 만들기'가 시작되므로 이후부터는 직접 삽질하면서 배우기로 결정.
 
 ## 1번 강의를 통해 배운 내용
 
