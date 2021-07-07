@@ -17,4 +17,9 @@
 - JPA
 - Lombok
 
-## 🚴 2번 강의 수강중...
+## 2번 강의를 통해 배운 내용
+
+- Devtool
+- Lombok
+- RestController
+- ResponseBody
